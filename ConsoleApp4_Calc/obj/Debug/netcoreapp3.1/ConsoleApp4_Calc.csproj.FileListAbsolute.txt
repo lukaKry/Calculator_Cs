@@ -1,0 +1,13 @@
+C:\Users\Łukasz\source\repos\ConsoleApp4_Calc\ConsoleApp4_Calc\bin\Debug\netcoreapp3.1\ConsoleApp4_Calc.exe
+C:\Users\Łukasz\source\repos\ConsoleApp4_Calc\ConsoleApp4_Calc\bin\Debug\netcoreapp3.1\ConsoleApp4_Calc.deps.json
+C:\Users\Łukasz\source\repos\ConsoleApp4_Calc\ConsoleApp4_Calc\bin\Debug\netcoreapp3.1\ConsoleApp4_Calc.runtimeconfig.json
+C:\Users\Łukasz\source\repos\ConsoleApp4_Calc\ConsoleApp4_Calc\bin\Debug\netcoreapp3.1\ConsoleApp4_Calc.runtimeconfig.dev.json
+C:\Users\Łukasz\source\repos\ConsoleApp4_Calc\ConsoleApp4_Calc\bin\Debug\netcoreapp3.1\ConsoleApp4_Calc.dll
+C:\Users\Łukasz\source\repos\ConsoleApp4_Calc\ConsoleApp4_Calc\bin\Debug\netcoreapp3.1\ConsoleApp4_Calc.pdb
+C:\Users\Łukasz\source\repos\ConsoleApp4_Calc\ConsoleApp4_Calc\obj\Debug\netcoreapp3.1\ConsoleApp4_Calc.csprojAssemblyReference.cache
+C:\Users\Łukasz\source\repos\ConsoleApp4_Calc\ConsoleApp4_Calc\obj\Debug\netcoreapp3.1\ConsoleApp4_Calc.AssemblyInfoInputs.cache
+C:\Users\Łukasz\source\repos\ConsoleApp4_Calc\ConsoleApp4_Calc\obj\Debug\netcoreapp3.1\ConsoleApp4_Calc.AssemblyInfo.cs
+C:\Users\Łukasz\source\repos\ConsoleApp4_Calc\ConsoleApp4_Calc\obj\Debug\netcoreapp3.1\ConsoleApp4_Calc.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz\source\repos\ConsoleApp4_Calc\ConsoleApp4_Calc\obj\Debug\netcoreapp3.1\ConsoleApp4_Calc.dll
+C:\Users\Łukasz\source\repos\ConsoleApp4_Calc\ConsoleApp4_Calc\obj\Debug\netcoreapp3.1\ConsoleApp4_Calc.pdb
+C:\Users\Łukasz\source\repos\ConsoleApp4_Calc\ConsoleApp4_Calc\obj\Debug\netcoreapp3.1\ConsoleApp4_Calc.genruntimeconfig.cache
